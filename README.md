@@ -22,6 +22,6 @@ Apply knowledge of:
 * HTML5
 * CSS3
 
-## Notas
+## Notes
 
 This project is part of my personal internship to reinforce CSS styling and layout concepts. I plan to continue iterating on this component with more features and responsive design.
