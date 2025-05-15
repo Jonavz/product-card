@@ -102,8 +102,20 @@
                         <button id="addReview">Agregar reseña</button>
                         <dialog id="reviewDialog">
                         <form method="dialog">
-                            <fieldset></fieldset>
-                            <fieldset></fieldset>
+                            <fieldset>
+                                <legend>Eliga las estrellas</legend>
+                            </fieldset>
+                            <fieldset>
+                                <legend>Reseña</legend>
+                                <div>
+                                    <label for="titulo">Titulo:</label>
+                                    <input type="text" id="titulo" value="Titulo de la reseña">
+                                </div>
+                                <div>
+                                    <label for="descriptionReview">Descripcion:</label>
+                                    <input type="text" id="descriptionReview" value="Descripcion de la reseña">
+                                </div>
+                            </fieldset>
                             <button id="cancel" type="reset">Cancelar</button>
                             <button type="submit">Agregar reseña</button>
                         </form>
