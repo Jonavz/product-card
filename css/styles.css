@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(255, 0, 0);
+    border-width: 3px ;
+    border-style: solid;
+    border-color: currentColor;
+    font-family: monosp ace;
+}
+
+body {
+    background: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
